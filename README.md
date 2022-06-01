@@ -1,5 +1,8 @@
 # node-libpng
 
+
+## ⚠️ This repo exists only for my personal purposes until darwin-arm64 gets supported by Prior/node-libpng - Use at your own risk
+
 [![npm](https://img.shields.io/npm/v/node-libpng.svg)](https://www.npmjs.com/package/node-libpng)
 [![Build Status](https://app.travis-ci.com/Prior99/node-libpng.svg?branch=master)](https://app.travis-ci.com/github/Prior99/node-libpng)
 [![Build status](https://ci.appveyor.com/api/projects/status/1dbpcj210jlyv0e1/branch/master?svg=true)](https://ci.appveyor.com/project/Prior99/node-libpng/branch/master)
